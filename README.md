@@ -8,5 +8,5 @@ Worked with in the past: Python, Haskell, HTML/CSS, JavaScript, Java
 Currently focused on: HTML/CSS, JavaScript
 
 How to reach me:
-- Twitter: https://twitter.com/Erferno
+- Twitter: https://twitter.com/ericferno
 - Discord: Erferno#0007
