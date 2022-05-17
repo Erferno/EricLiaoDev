@@ -3,7 +3,7 @@ Hello, I'm Eric Liao.
 
 Most fluent in: Java
 
-Worked with in the past: Python, Haskell, HTML/CSS, JavaScript, Java
+Worked with in the past: Java, HTML/CSS/JavaScript, C++, Python, Haskell
 
 Currently focused on: HTML/CSS, JavaScript
 
